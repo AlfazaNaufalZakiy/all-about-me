@@ -1,5 +1,9 @@
-# Selamat Berjumpa {.unnumbered}
+# Selamat Datang {.unnumbered}
 
-![About Me](images/AZRL.png){width=950%}
+Saya Alfaza Naufal Zakiy (18222126), mahasiswa Program Studi Sistem dan Teknologi Informasi, Sekolah Teknik Elektro dan Informatika – Institut Teknologi Bandung (ITB).
 
-Halo2
+Website ini dibuat sebagai bagian dari asesmen mata kuliah II2100 Komunikasi Interpersonal dan Publik (KIPP) yang berfokus pada pengembangan kemampuan berkomunikasi secara efektif, reflektif, dan bermakna dalam konteks akademik maupun profesional.
+
+Melalui laman ini, saya membagikan proses belajar, refleksi diri, serta karya-karya yang menggambarkan perjalanan saya dalam memahami esensi komunikasi interpersonal—mulai dari kesadaran diri, empati, hingga kemampuan menyampaikan gagasan secara terbuka dan konstruktif.
+
+Setiap bagian di website ini dirancang untuk menunjukkan bahwa komunikasi bukan sekadar keterampilan berbicara, tetapi juga seni membangun hubungan dan menciptakan pemahaman bersama melalui setiap kata dan tindakan.
