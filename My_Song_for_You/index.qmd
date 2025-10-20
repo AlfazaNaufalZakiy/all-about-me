@@ -5,7 +5,8 @@ Lirik by Alfaza Naufal Zakiy
 
 Music: SUNO
 
-<audio controls src="lagu.mp3"></audio>
+File Lagu <https://drive.google.com/file/d/1CEcoW-aY6Kv-ebu0mIWvEDLoR2dyvzwx/preview>
+
 
 Lirik
 
