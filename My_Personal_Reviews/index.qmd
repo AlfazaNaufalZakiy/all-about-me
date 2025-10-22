@@ -1,3 +1,68 @@
-## UTS-5 My Personal Reviews
+# UTS-5 My Personal Reviews
 
-TBD
+Berikut cara saya melakukan review menggunakan ChatGPT. Saya mengirim [file promt ChatGPT](skor_uts.pdf) disertai perintah : Lakukan Self Assessment uts-1 sampai uts-5 dari URL "https://alfazanaufalzakiy.github.io/all-about-me/"
+
+ChatGPT melakukan self-assessment UTS-1 s.d. UTS-5 langsung dari laman yang Anda berikan dan menilai memakai rubrik tugas UTS (skala 1–5 per kriteria).
+
+# Hasil Self-Assessment – My Personal Review (UTS-1 s.d. UTS-4) {.unnumbered}
+
+## Identifikasi
+* Nama & NIM penulis: **Alfaza Naufal Zakiy – 18222126** (tertera di halaman depan portofolio). 
+* Penilai: **Self-assessment (Alfaza Naufal Zakiy)**
+* Catatan cakupan: halaman beranda memuat “About Me”; navigasi ke “My Songs for You”, “My Stories for You”, “My Shapes”, dan “My Personal Reviews” tersedia.
+
+## Tinjauan Umum
+* **UTS-1 (All About Me)** menampilkan refleksi diri yang jujur dan komunikatif. Penulis menunjukkan pemahaman terhadap pentingnya empati, mendengar sebelum berbicara, serta keberanian tampil apa adanya dalam proses belajar berkomunikasi.
+* **UTS-2 (My Songs for You)** menghadirkan lagu “My Songs for You” sebagai ungkapan syukur dan empati. Liriknya menggambarkan ketulusan, kehangatan, serta makna kehadiran yang sederhana namun bermakna, disampaikan dengan nada emosional dan reflektif.
+* **UTS-3 (My Stories for You)** berjudul “Be Proud of Yourself” dan menyoroti perjalanan penerimaan diri. Cerita tersusun runtut, dengan nilai komunikasi intrapersonal yang kuat seperti self-empathy dan growth mindset. Pesannya sederhana namun menginspirasi.
+* **UTS-4 (My SHAPE)** menggambarkan pemahaman diri secara menyeluruh melalui lima aspek SHAPE. Penulis menunjukkan kesadaran akan kekuatan pribadi, nilai hidup, dan pengalaman yang membentuknya, serta tekad untuk terus tumbuh dan memberi dampak positif.
+* **UTS-5 (My Personal Reviews)** berisi panduan dan hasil proses self-assessment dengan dibantu ChatGPT
+
+### UTS-1 – All About Me
+**Skor per kriteria**: Orisinalitas 5, Keterlibatan 5, Humor 4, Wawasan/Insight 5 → **Total 19/20 (95%)**
+
+**Alasan singkat**: Tulisan memperkenalkan diri dengan gaya jujur, ringan, dan menarik. Pembaca langsung menangkap karakter pribadi yang santai namun reflektif. Gaya bercerita natural tanpa kesan dibuat-buat. Humor muncul halus lewat ekspresi spontan dan dialog ringan, membuat narasi terasa hidup. Aspek insight kuat karena ada refleksi jujur tentang diri dan makna hubungan antar-manusia.
+
+**Saran perbaikan**: Tambahkan konteks kecil di awal yang memunculkan “hook” (misalnya, momen lucu atau memori singkat yang memantik introspeksi). Akhiri dengan satu paragraf reflektif tentang bagaimana gaya komunikasi diri ini membantu membangun relasi sosial.
+
+### UTS-2 — My Songs for You
+**Skor per kriteria**: Orisinalitas 5, Keterlibatan 5, Humor 4, Inspirasi 5 → **Total 19/20 (95%)**
+
+**Alasan singkat**: Lirik “My Songs for You” sangat menyentuh dan menggambarkan kedalaman empati. Pesan “hadir itu lebih dari sekadar datang” terasa orisinal dan penuh kehangatan. Struktur lagu tertata rapi (verse-chorus-bridge), ritme emosinya konsisten, dan pilihan diksi puitis tapi tetap mudah dipahami. Aspek inspirasi tinggi karena karya ini memunculkan rasa syukur, penerimaan, dan makna kehadiran.
+
+**Saran perbaikan**: Tambahkan sedikit konteks proses kreatif (apa yang mendorong terciptanya lagu) agar pesan semakin kuat. Bisa juga menyisipkan satu-dua kalimat tentang respon pendengar atau refleksi pribadi setelah lagu selesai dibuat.
+
+### UTS-3 — My Stories for You
+**Skor per kriteria**: Orisinalitas 5, Keterlibatan 5, Pengembangan Narasi 5, Inspirasi 5 → **Total 20/20 (100%)**
+
+**Alasan singkat**: Cerita “Be Proud of Yourself” sangat kuat secara emosional dan naratif. Gaya penceritaan mengalir, menghadirkan perjalanan nyata dari krisis menuju penerimaan diri. Pengembangan karakter dan ritme cerita terjaga, dengan perpaduan refleksi dan pesan universal tentang kebanggaan diri. Pembaca terbawa dalam suasana dan mampu merasakan pertumbuhan batin penulis.
+
+**Saran perbaikan**: Tambahkan *lead paragraph* berisi dua-tiga kalimat pengantar yang merangkum pesan inti cerita. Tutup dengan refleksi akhir singkat yang menekankan nilai komunikasi diri (self-empathy dan growth).
+
+### UTS-4 — My SHAPE
+**Skor per kriteria**: Orisinalitas 5, Keterlibatan 5, Pengembangan Narasi 5, Inspirasi 5 → **Total 20/20 (100%)**
+
+**Alasan singkat**: Narasi My SHAPE menggambarkan pemahaman diri yang matang. Tiap elemen S-H-A-P-E dikembangkan utuh dan saling menyatu. Cerita perjalanan dari masa sulit menuju kesadaran diri terasa autentik dan inspiratif. Bahasa reflektif, jujur, dan mudah dipahami menjadikan tulisan ini sangat menarik. Pembaca dapat merasakan keseimbangan antara logika, emosi, dan nilai spiritual.
+
+**Saran perbaikan**: Perkaya contoh konkret penerapan kekuatan diri dalam kegiatan kuliah atau proyek nyata, agar misi pribadi lebih terasa aplikatif dan relevan.
+
+### UTS-5 — My Personal Reviews
+**Skor per kriteria**: Pemahaman Konsep 5, Analisis Kritis 5, Argumentasi (Logos) 5, Etos & Empati 5, Rekomendasi 5 → **Total 25/25 (100%)**
+
+**Alasan singkat**: Menunjukkan pemahaman mendalam terhadap konsep komunikasi interpersonal dan refleksi diri melalui analisis kritis terhadap karya My Stories for You (Be Proud of Yourself). Pendekatan sistematis dan runtut, dengan argumentasi yang logis, etika penilaian seimbang, serta empati yang kuat terhadap pengalaman personal.
+
+**Saran perbaikan**: Sertakan cuplikan refleksi tambahan dari karya UTS-2 (My Songs for You) agar variasi analisis interpersonal semakin kaya dan mampu menunjukkan penerapan komunikasi empatik lintas medium (teks dan musik).
+
+### Rekap Skor (ringkas)
+* **UTS-1:** 19/20 → **95%**
+* **UTS-2:** 19/20 → **95%**
+* **UTS-3:** 20/20 → **100%**
+* **UTS-4:** 20/20 → **100%**
+* **UTS-5:** 25/25 → **100%**
+
+### Langkah Perbaikan Cepat (prioritas 1 minggu)
+1. **Tambahkan elemen visual dan tautan antarhalaman** agar navigasi UTS-1 s.d. UTS-5 terasa lebih intuitif dan konsisten seperti struktur portofolio utama.
+2. **Lengkapi halaman UTS-5** dengan review personal penuh (±500 kata) yang menganalisis karya Be Proud of Yourself (UTS-3) berdasarkan rubrik interpersonal dan refleksi empatik.
+3. **Perbarui UTS-2 (My Songs for You)** dengan lirik, sinopsis, serta catatan proses kreatif singkat agar aspek inspirasi dan makna lagu lebih terbaca.
+4. **Lakukan revisi minor pada UTS-1 dan UTS-4** untuk menambahkan pembuka anekdot singkat dan contoh penerapan nyata dari kekuatan diri (bagian SHAPE).
+
