@@ -66,3 +66,5 @@ ChatGPT melakukan self-assessment UTS-1 s.d. UTS-5 langsung dari laman yang Anda
 3. **Perbarui UTS-2 (My Songs for You)** dengan lirik, sinopsis, serta catatan proses kreatif singkat agar aspek inspirasi dan makna lagu lebih terbaca.
 4. **Lakukan revisi minor pada UTS-1 dan UTS-4** untuk menambahkan pembuka anekdot singkat dan contoh penerapan nyata dari kekuatan diri (bagian SHAPE).
 
+## Hasil Self-Assessment dan Peer-Assessment
+Lihat Hasil Penilaian Saya [disini](UTS-5_Skor.xlsx)
